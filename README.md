@@ -15,6 +15,13 @@
 * 在某个编程语言中这个如何实现这个解决方案（代码组织的结构。包括：类、函数、文件、目录等的组织方式）？
 
 # 模式
+
+## 构建模式（Structural)
+- [x] 工厂方法（Factory Method）
+- [x] 抽象工厂（Abstract Factory）
+- [x] 生成器（Builder）
+- [x] 原型（Prototype）
+- [x] 单例（Singleton）
 ## 结构型模式（Structural）
 - [x] 适配器模式（Adapter）
 - [x] 桥接模式（Bridge）
