@@ -16,7 +16,7 @@
 
 # 模式
 
-## 构建模式（Structural)
+## 创建型模式（Creational)
 - [x] 工厂方法（Factory Method）
 - [x] 抽象工厂（Abstract Factory）
 - [x] 生成器（Builder）
